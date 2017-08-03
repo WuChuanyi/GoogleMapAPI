@@ -185,7 +185,7 @@ a.btn.btn-primary.my-btn.dark:hover{
 	color: #ffffff;
 	border-color: transparent;
 }
-b.btn.btn-primary.my-btn {
+a.btn.btn-primary.my-btn2 {
 	background: #34a853;
 	border-color: transparent;
 	border-radius: 0px;
@@ -198,13 +198,13 @@ b.btn.btn-primary.my-btn {
 	font-family: 微軟正黑體;
 }
 
-b.btn.btn-primary.my-btn:hover{
+a.btn.btn-primary.my-btn2:hover{
 	background: #FFFFFF;
 	color: #34a853;
 	border-color: transparent;
 }
 
-c.btn.btn-primary.my-btn {
+a.btn.btn-primary.my-btn3 {
 	background: rgba(47, 147, 123, 0);
 	border-color: #FFFFFF;
 	border-radius: 0px;
@@ -218,13 +218,13 @@ c.btn.btn-primary.my-btn {
 	font-family: 微軟正黑體;
 }
 button.btn.btn-primary.my-btn:hover,
-c.btn.btn-primary.my-btn:hover{
+a.btn.btn-primary.my-btn3:hover{
 	background: #ddd;
     color: #333;
     border-color: transparent;
 }
 
-d.btn.btn-primary.my-btn {
+a.btn.btn-primary.my-btn4 {
 	background: #ea4335;
 	border-color: transparent;
 	border-radius: 0px;
@@ -237,12 +237,12 @@ d.btn.btn-primary.my-btn {
 	font-family: 微軟正黑體;
 }
 button.btn.btn-primary.my-btn:hover,
-d.btn.btn-primary.my-btn:hover{
+a.btn.btn-primary.my-btn4:hover{
 	background: #FFFFFF;
 	color: #ea4335;
 	border-color: transparent;
 }
-e.btn.btn-primary.my-btn {
+a.btn.btn-primary.my-btn4 {
 	background: #fbbc05;
 	border-color: transparent;
 	border-radius: 0px;
@@ -255,7 +255,7 @@ e.btn.btn-primary.my-btn {
 	font-family: 微軟正黑體;
 }
 button.btn.btn-primary.my-btn:hover,
-e.btn.btn-primary.my-btn:hover{
+a.btn.btn-primary.my-btn5:hover{
 	background: #FFFFFF;
 	color: #fbbc05;
 	border-color: transparent;
